@@ -1,0 +1,603 @@
+ItemID,Department_Raw,ActionItem,Owner_Raw,RaisedDate,DueDate,Status_Raw,ClosedDate
+ACT-701,Projects,Power factor correction panel upgrade,S. Nair,45380,20-04-2024,closed ,04/29/2024
+ACT-702,production,Testing lab calibration renewal,S. Nair,2024-12-28,45682,In Progress,
+ACT-703,Projects,EHV Line preventive maintenance,A. Shah,08/23/2024,28-Aug-2024,In Progress,
+ACT-704,Projects,Vendor NC closure - insulation batch,D. Iyer,2025-10-29,12-Nov-2025,closed ,09-11-2025
+ACT-705,hr,Testing lab calibration renewal,N. Trivedi,03-05-2026,2026-05-31,CLOSED,05/28/2026
+ACT-706,Production,Machine spare parts stock-out review,R. Mehta,45140,45160,Closed,26-Aug-2023
+ACT-707,Projects,ISO surveillance audit prep,A. Shah,21-12-2025,13-Jan-2026,Closed,01/19/2026
+ACT-708,finance,ISO surveillance audit prep,N. Trivedi,06/20/2025,06/28/2025,closed ,06/29/2025
+ACT-709,Sales,New client drawing sign-off,S. Nair,11/05/2023,12/05/2023,CLOSED,2023-12-02
+ACT-710,QC,Testing lab calibration renewal,D. Iyer,10-02-2026,02/27/2026,closed ,2026-03-08
+ACT-711,hr,Power factor correction panel upgrade,M. Bhatt,2026-07-05,07/19/2026,OPEN,
+ACT-712,Production,Power factor correction panel upgrade,S. Nair,12-Feb-2025,22-Feb-2025,Done,45720
+ACT-713,Sales,ISO surveillance audit prep,S. Nair,46030,2026-01-24,OPEN,
+ACT-714,Projects,Safety audit action closure,D. Iyer,28-04-2025,15-05-2025,CLOSED,24-May-2025
+ACT-715,Quality,Testing lab calibration renewal,K. Joshi,11-Nov-2024,2024-12-06,Done,12/08/2024
+ACT-716,Quality,Safety audit action closure,R. Mehta,2025-02-22,,In Progress,
+ACT-717,production,Machine spare parts stock-out review,P. Rao,2026-01-25,46054,CLOSED,01/30/2026
+ACT-718,Quality,Safety audit action closure,P. Rao,29-Sep-2024,07-Oct-2024,Closed,15-Oct-2024
+ACT-719,Finance,New client drawing sign-off,D. Iyer,45559,10/06/2024,Closed,03-10-2024
+ACT-720,Projects,EHV Line preventive maintenance,N. Trivedi,45431,30-05-2024,Closed,45448
+ACT-721,Projects,Vendor NC closure - insulation batch,P. Rao,2024-04-15,45418,CLOSED,05/08/2024
+ACT-722,HR,Raw material vendor qualification,N. Trivedi,45378,13-04-2024,closed ,45395
+ACT-723,Finance,Raw material vendor qualification,P. Rao,2025-11-23,,Done,02-Dec-2025
+ACT-724,production,Testing lab calibration renewal,S. Nair,28-10-2023,02-Nov-2023,Open,
+ACT-725,production,SAP stock reconciliation,S. Nair,2024-11-19,45641,closed ,19-Dec-2024
+ACT-726,Projects,SAP stock reconciliation,D. Iyer,11/29/2023,45284,CLOSED,25-Dec-2023
+ACT-727,Quality,New client drawing sign-off,N. Trivedi,20-06-2026,2026-06-28,inprogress,
+ACT-728,Projects,EHV Line preventive maintenance,r.mehta,08-Feb-2026,06-03-2026,closed ,11-Mar-2026
+ACT-729,Production,SAP stock reconciliation,D. Iyer,11/27/2024,02-Dec-2024,Done,08-12-2024
+ACT-730,finance,Raw material vendor qualification,R. Mehta,08/22/2023,15-Sep-2023,inprogress,
+ACT-731,HR,ISO surveillance audit prep,M. Bhatt,45961,11/21/2025,open,
+ACT-732,Finance,ISO surveillance audit prep,N. Trivedi,02/08/2024,02/21/2024,Open,
+ACT-733,finance,Safety audit action closure,S. Nair,17-08-2023,09/13/2023,CLOSED,15-Sep-2023
+ACT-734,hr,Machine spare parts stock-out review,r.mehta,06-Jan-2026,46044,closed ,01/22/2026
+ACT-735,Production,Raw material vendor qualification,P. Rao,06-Mar-2025,02-04-2025,Open,
+ACT-736,Quality,Dispatch documentation backlog,N. Trivedi,30-Apr-2024,07-May-2024,Closed,2024-05-17
+ACT-737,HR,Dispatch documentation backlog,r.mehta,45909,21-09-2025,CLOSED,2025-09-19
+ACT-738,finance,New client drawing sign-off,N. Trivedi,01/10/2025,45679,open,
+ACT-739,finance,Testing lab calibration renewal,r.mehta,27-Jan-2026,2026-02-24,CLOSED,03/04/2026
+ACT-740,Finance,SAP stock reconciliation,D. Iyer,14-06-2025,45844,Done,11-Jul-2025
+ACT-741,Projects,Power factor correction panel upgrade,D. Iyer,30-12-2023,,CLOSED,45316
+ACT-742,Projects,Raw material vendor qualification,K. Joshi,29-05-2026,46186,Done,2026-06-09
+ACT-743,hr,Contract labour renewal,N. Trivedi,04/16/2026,2026-05-09,Closed,08-05-2026
+ACT-744,Projects,Power factor correction panel upgrade,r.mehta,10/30/2023,,closed ,11/05/2023
+ACT-745,production,Vendor NC closure - insulation batch,N. Trivedi,45818,45831,Done,23-06-2025
+ACT-746,Production,Testing lab calibration renewal,R. Mehta,2026-04-16,02-May-2026,closed ,2026-05-07
+ACT-747,production,Dispatch documentation backlog,M. Bhatt,45621,,Done,2024-12-17
+ACT-748,Projects,Testing lab calibration renewal,D. Iyer,07/28/2024,09-08-2024,CLOSED,2024-08-19
+ACT-749,HR,SAP stock reconciliation,K. Joshi,2026-02-25,2026-03-02,CLOSED,2026-03-10
+ACT-750,Quality,New client drawing sign-off,S. Nair,2025-10-03,28-10-2025,Closed,45956
+ACT-751,Finance,ISO surveillance audit prep,N. Trivedi,10/21/2023,26-Oct-2023,CLOSED,10/22/2023
+ACT-752,finance,EHV Line preventive maintenance,R. Mehta,06/12/2024,20-06-2024,CLOSED,28-Jun-2024
+ACT-753,Production,Contract labour renewal,M. Bhatt,26-Nov-2025,12/18/2025,in-progress,
+ACT-754,finance,Safety audit action closure,A. Shah,46035,01/24/2026,Closed,2026-01-26
+ACT-755,Production,Dispatch documentation backlog,M. Bhatt,03-Aug-2025,45899,OPEN,
+ACT-756,finance,EHV Line preventive maintenance,M. Bhatt,06/06/2025,2025-06-27,CLOSED,07/03/2025
+ACT-757,HR,New client drawing sign-off,S. Nair,2023-11-27,12/02/2023,inprogress,
+ACT-758,hr,Safety audit action closure,M. Bhatt,45162,45181,Done,45187
+ACT-759,Finance,ISO surveillance audit prep,K. Joshi,2024-06-16,06/30/2024,CLOSED,06-Jul-2024
+ACT-760,Projects,Testing lab calibration renewal,N. Trivedi,2026-07-15,20-07-2026,OPEN,
+ACT-761,hr,Machine spare parts stock-out review,S. Nair,45936,2025-10-27,Done,11/06/2025
+ACT-762,Projects,Safety audit action closure,N. Trivedi,45292,2024-01-30,In Progress,
+ACT-763,Sales,Power factor correction panel upgrade,R. Mehta,2024-01-21,2024-01-30,Closed,26-01-2024
+ACT-764,Quality,Raw material vendor qualification,D. Iyer,22-Jun-2026,2026-07-11,inprogress,
+ACT-765,Production,Safety audit action closure,A. Shah,2024-01-16,01/29/2024,OPEN,
+ACT-766,hr,Raw material vendor qualification,R. Mehta,46070,17-Mar-2026,Done,24-03-2026
+ACT-767,HR,EHV Line preventive maintenance,A. Shah,45327,05-Mar-2024,closed ,06-03-2024
+ACT-768,production,New client drawing sign-off,N. Trivedi,06-08-2023,22-Aug-2023,CLOSED,2023-08-23
+ACT-769,Sales,SAP stock reconciliation,r.mehta,46154,28-05-2026,Closed,2026-06-03
+ACT-770,Finance,Dispatch documentation backlog,R. Mehta,05-07-2026,27-07-2026,In Progress,
+ACT-771,Projects,Raw material vendor qualification,P. Rao,27-Nov-2025,07-Dec-2025,in-progress,
+ACT-772,Sales,Safety audit action closure,P. Rao,45409,45417,open,
+ACT-773,hr,Machine spare parts stock-out review,K. Joshi,08-12-2025,16-12-2025,CLOSED,15-12-2025
+ACT-774,QC,Vendor NC closure - insulation batch,R. Mehta,08/02/2024,08/20/2024,Done,45523
+ACT-775,Projects,Vendor NC closure - insulation batch,K. Joshi,09/24/2024,12-Oct-2024,Closed,10/13/2024
+ACT-776,QC,EHV Line preventive maintenance,S. Nair,45328,45347,CLOSED,03/02/2024
+ACT-777,Production,Power factor correction panel upgrade,A. Shah,11-05-2025,45804,CLOSED,23-May-2025
+ACT-778,Production,ISO surveillance audit prep,N. Trivedi,2024-03-21,03-Apr-2024,Done,10-Apr-2024
+ACT-779,Quality,Dispatch documentation backlog,D. Iyer,2025-04-20,45783,open,
+ACT-780,Quality,ISO surveillance audit prep,S. Nair,11-09-2025,45926,closed ,22-09-2025
+ACT-781,HR,Dispatch documentation backlog,D. Iyer,12/23/2025,46020,Closed,2025-12-25
+ACT-782,HR,Power factor correction panel upgrade,R. Mehta,25-May-2025,,open,
+ACT-783,Projects,Vendor NC closure - insulation batch,P. Rao,46197,07/20/2026,inprogress,
+ACT-784,Finance,EHV Line preventive maintenance,K. Joshi,45894,08-Sep-2025,CLOSED,45905
+ACT-785,hr,Raw material vendor qualification,A. Shah,2026-03-26,25-04-2026,closed ,21-04-2026
+ACT-786,hr,Dispatch documentation backlog,r.mehta,05-02-2024,45356,Done,08-03-2024
+ACT-787,Production,Raw material vendor qualification,A. Shah,06-06-2026,,Done,06/13/2026
+ACT-788,Production,Vendor NC closure - insulation batch,D. Iyer,46118,,In Progress,
+ACT-789,Sales,Raw material vendor qualification,K. Joshi,14-08-2025,45894,Done,03-Sep-2025
+ACT-790,Sales,ISO surveillance audit prep,R. Mehta,21-Oct-2025,15-11-2025,CLOSED,21-Nov-2025
+ACT-791,Sales,EHV Line preventive maintenance,D. Iyer,03/03/2026,23-Mar-2026,Open,
+ACT-792,QC,Contract labour renewal,K. Joshi,20-07-2024,13-08-2024,CLOSED,08/12/2024
+ACT-793,QC,Machine spare parts stock-out review,M. Bhatt,09/03/2023,2023-09-27,Open,
+ACT-794,Finance,Raw material vendor qualification,D. Iyer,46115,11-Apr-2026,closed ,12-Apr-2026
+ACT-795,hr,EHV Line preventive maintenance,R. Mehta,16-02-2026,11-03-2026,CLOSED,21-03-2026
+ACT-796,production,Testing lab calibration renewal,M. Bhatt,10-Jan-2025,2025-01-16,OPEN,
+ACT-797,Quality,Contract labour renewal,A. Shah,45443,25-Jun-2024,closed ,06/28/2024
+ACT-798,production,SAP stock reconciliation,S. Nair,2024-08-06,18-Aug-2024,OPEN,
+ACT-799,Projects,Testing lab calibration renewal,N. Trivedi,06/29/2025,45847,Done,12-07-2025
+ACT-800,Projects,Testing lab calibration renewal,M. Bhatt,45350,45375,closed ,45383
+ACT-801,Sales,ISO surveillance audit prep,N. Trivedi,2024-05-23,06/17/2024,CLOSED,2024-06-14
+ACT-802,HR,Contract labour renewal,P. Rao,06/21/2026,46207,OPEN,
+ACT-803,Finance,Machine spare parts stock-out review,P. Rao,2025-11-28,2025-12-21,CLOSED,24-Dec-2025
+ACT-804,production,Dispatch documentation backlog,A. Shah,09/20/2023,2023-10-19,Closed,45215
+ACT-805,Production,Contract labour renewal,P. Rao,2025-11-25,12/12/2025,open,
+ACT-806,Production,Dispatch documentation backlog,r.mehta,20-03-2025,04/13/2025,closed ,15-Apr-2025
+ACT-807,HR,Contract labour renewal,D. Iyer,03/10/2025,04/06/2025,Closed,16-Apr-2025
+ACT-808,Projects,New client drawing sign-off,r.mehta,01/14/2025,01/24/2025,in-progress,
+ACT-809,Quality,Safety audit action closure,A. Shah,05/27/2025,06/03/2025,OPEN,
+ACT-810,Projects,EHV Line preventive maintenance,P. Rao,2025-09-10,01-Oct-2025,Closed,2025-10-08
+ACT-811,Projects,Raw material vendor qualification,M. Bhatt,11/15/2025,03-12-2025,inprogress,
+ACT-812,hr,Power factor correction panel upgrade,D. Iyer,30-12-2024,2025-01-28,In Progress,
+ACT-813,QC,Machine spare parts stock-out review,D. Iyer,07-Mar-2024,45385,CLOSED,05-Apr-2024
+ACT-814,QC,Testing lab calibration renewal,R. Mehta,2025-08-25,09/11/2025,Closed,16-09-2025
+ACT-815,Sales,Testing lab calibration renewal,S. Nair,10/03/2024,45596,OPEN,
+ACT-816,finance,Power factor correction panel upgrade,r.mehta,01/26/2024,05-Feb-2024,CLOSED,04-02-2024
+ACT-817,finance,Power factor correction panel upgrade,K. Joshi,13-Jun-2026,23-Jun-2026,Done,46200
+ACT-818,Projects,EHV Line preventive maintenance,P. Rao,46016,2026-01-09,closed ,46028
+ACT-819,Sales,EHV Line preventive maintenance,A. Shah,2025-07-06,11-07-2025,closed ,07/16/2025
+ACT-820,HR,Contract labour renewal,P. Rao,01-11-2024,2024-11-22,Closed,17-Nov-2024
+ACT-821,Production,Contract labour renewal,P. Rao,45329,12-02-2024,Open,
+ACT-822,Projects,Testing lab calibration renewal,P. Rao,24-01-2025,45699,Closed,45709
+ACT-823,Sales,Safety audit action closure,D. Iyer,15-May-2026,2026-05-29,Open,
+ACT-824,Sales,SAP stock reconciliation,S. Nair,21-01-2025,29-01-2025,In Progress,
+ACT-825,production,Dispatch documentation backlog,N. Trivedi,03-09-2024,18-Sep-2024,Closed,45563
+ACT-826,QC,Power factor correction panel upgrade,r.mehta,11/09/2024,2024-11-29,closed ,07-Dec-2024
+ACT-827,hr,Vendor NC closure - insulation batch,P. Rao,24-Jan-2024,30-Jan-2024,CLOSED,09-Feb-2024
+ACT-828,Projects,Machine spare parts stock-out review,A. Shah,45881,45887,Closed,24-08-2025
+ACT-829,finance,Power factor correction panel upgrade,R. Mehta,2025-02-25,10-03-2025,Done,03/16/2025
+ACT-830,Sales,SAP stock reconciliation,N. Trivedi,45810,06/22/2025,closed ,06/17/2025
+ACT-831,Quality,Vendor NC closure - insulation batch,K. Joshi,45621,19-Dec-2024,inprogress,
+ACT-832,Finance,Machine spare parts stock-out review,M. Bhatt,2026-03-30,46125,CLOSED,10-04-2026
+ACT-833,hr,Vendor NC closure - insulation batch,r.mehta,03/29/2026,2026-04-22,Open,
+ACT-834,Quality,EHV Line preventive maintenance,A. Shah,2025-05-07,2025-06-06,Open,
+ACT-835,QC,SAP stock reconciliation,D. Iyer,09-08-2023,45157,CLOSED,08/15/2023
+ACT-836,HR,EHV Line preventive maintenance,M. Bhatt,12-Feb-2025,2025-02-27,Done,27-Feb-2025
+ACT-837,Projects,Testing lab calibration renewal,K. Joshi,20-Mar-2025,,Closed,2025-04-09
+ACT-838,QC,Contract labour renewal,P. Rao,2025-04-18,2025-05-13,Closed,05/14/2025
+ACT-839,Quality,Machine spare parts stock-out review,K. Joshi,11/04/2025,2025-12-02,CLOSED,28-11-2025
+ACT-840,Finance,Dispatch documentation backlog,M. Bhatt,45950,07-Nov-2025,OPEN,
+ACT-841,production,Dispatch documentation backlog,M. Bhatt,2023-09-06,45197,CLOSED,45200
+ACT-842,HR,New client drawing sign-off,D. Iyer,14-10-2024,2024-10-31,Done,27-10-2024
+ACT-843,HR,EHV Line preventive maintenance,M. Bhatt,2024-12-18,2025-01-04,Closed,2025-01-03
+ACT-844,finance,New client drawing sign-off,N. Trivedi,14-08-2025,45903,OPEN,
+ACT-845,finance,Machine spare parts stock-out review,A. Shah,29-Apr-2024,05/12/2024,closed ,15-May-2024
+ACT-846,finance,Dispatch documentation backlog,D. Iyer,25-Oct-2025,45975,Closed,45985
+ACT-847,Finance,Testing lab calibration renewal,A. Shah,28-06-2026,04-Jul-2026,Done,09-07-2026
+ACT-848,production,EHV Line preventive maintenance,D. Iyer,45793,06/10/2025,CLOSED,06/11/2025
+ACT-849,Projects,Safety audit action closure,M. Bhatt,21-Feb-2026,2026-03-08,CLOSED,03/16/2026
+ACT-850,hr,Machine spare parts stock-out review,D. Iyer,2024-08-16,45528,Closed,2024-08-27
+ACT-851,hr,New client drawing sign-off,S. Nair,2023-09-09,09/29/2023,Open,
+ACT-852,QC,Power factor correction panel upgrade,N. Trivedi,45721,02-Apr-2025,Closed,04/12/2025
+ACT-853,hr,EHV Line preventive maintenance,R. Mehta,04-05-2025,18-05-2025,closed ,05/16/2025
+ACT-854,hr,New client drawing sign-off,K. Joshi,2026-07-29,,open,
+ACT-855,HR,Vendor NC closure - insulation batch,M. Bhatt,2024-05-05,2024-05-10,closed ,05/11/2024
+ACT-856,HR,Machine spare parts stock-out review,N. Trivedi,30-Aug-2024,23-09-2024,Done,2024-09-27
+ACT-857,Quality,Safety audit action closure,P. Rao,2025-09-27,05-Oct-2025,CLOSED,30-09-2025
+ACT-858,QC,SAP stock reconciliation,r.mehta,27-11-2024,45647,Done,12/17/2024
+ACT-859,finance,SAP stock reconciliation,D. Iyer,2025-04-30,07-05-2025,closed ,05/10/2025
+ACT-860,HR,Power factor correction panel upgrade,R. Mehta,19-Feb-2024,2024-03-06,Open,
+ACT-861,Projects,ISO surveillance audit prep,A. Shah,23-Nov-2024,10-12-2024,Open,
+ACT-862,Projects,ISO surveillance audit prep,P. Rao,24-11-2023,12/07/2023,inprogress,
+ACT-863,hr,Power factor correction panel upgrade,M. Bhatt,2025-09-30,45953,Done,45954
+ACT-864,Projects,Machine spare parts stock-out review,r.mehta,13-09-2023,,CLOSED,28-Sep-2023
+ACT-865,QC,ISO surveillance audit prep,A. Shah,26-Apr-2026,01-05-2026,closed ,04/26/2026
+ACT-866,Quality,Vendor NC closure - insulation batch,r.mehta,16-Oct-2025,45960,Done,2025-10-26
+ACT-867,finance,Contract labour renewal,S. Nair,45816,30-06-2025,CLOSED,45835
+ACT-868,finance,ISO surveillance audit prep,R. Mehta,30-Mar-2026,04/24/2026,closed ,05/01/2026
+ACT-869,HR,SAP stock reconciliation,M. Bhatt,45999,22-Dec-2025,In Progress,
+ACT-870,HR,SAP stock reconciliation,K. Joshi,45805,21-06-2025,Done,45838
+ACT-871,finance,SAP stock reconciliation,D. Iyer,45519,27-Aug-2024,closed ,24-08-2024
+ACT-872,hr,Testing lab calibration renewal,M. Bhatt,12/16/2025,13-Jan-2026,closed ,2026-01-20
+ACT-873,Sales,EHV Line preventive maintenance,N. Trivedi,12/04/2025,12/11/2025,Closed,2025-12-21
+ACT-874,finance,Vendor NC closure - insulation batch,A. Shah,45546,45565,Done,09/25/2024
+ACT-875,QC,EHV Line preventive maintenance,K. Joshi,45924,2025-10-24,CLOSED,10/26/2025
+ACT-876,Production,Safety audit action closure,A. Shah,46225,2026-08-01,open,
+ACT-877,hr,Testing lab calibration renewal,R. Mehta,11/02/2025,17-Nov-2025,Closed,16-11-2025
+ACT-878,HR,Safety audit action closure,K. Joshi,45427,2024-06-04,closed ,2024-06-04
+ACT-879,finance,SAP stock reconciliation,M. Bhatt,2025-01-21,05-Feb-2025,CLOSED,45689
+ACT-880,Finance,Testing lab calibration renewal,S. Nair,45669,2025-01-19,CLOSED,2025-01-29
+ACT-881,Quality,New client drawing sign-off,A. Shah,16-09-2023,10/01/2023,inprogress,
+ACT-882,Sales,SAP stock reconciliation,D. Iyer,17-Aug-2024,15-Sep-2024,CLOSED,23-Sep-2024
+ACT-883,Production,New client drawing sign-off,D. Iyer,02/01/2026,2026-03-01,Done,46079
+ACT-884,QC,Safety audit action closure,K. Joshi,45175,45187,OPEN,
+ACT-885,QC,Testing lab calibration renewal,D. Iyer,45632,45645,Closed,12/27/2024
+ACT-886,hr,Contract labour renewal,D. Iyer,05-09-2024,02-Oct-2024,Done,10/06/2024
+ACT-887,HR,SAP stock reconciliation,D. Iyer,05-Aug-2025,18-08-2025,inprogress,
+ACT-888,Finance,Power factor correction panel upgrade,S. Nair,2025-12-20,09-01-2026,Closed,46039
+ACT-889,Sales,Raw material vendor qualification,K. Joshi,09-Oct-2024,22-Oct-2024,Closed,2024-10-30
+ACT-890,HR,Power factor correction panel upgrade,A. Shah,45340,11-Mar-2024,CLOSED,11-Mar-2024
+ACT-891,Finance,Vendor NC closure - insulation batch,D. Iyer,02-11-2023,01-Dec-2023,OPEN,
+ACT-892,hr,Power factor correction panel upgrade,P. Rao,15-Feb-2024,45353,Closed,02/26/2024
+ACT-893,Finance,Contract labour renewal,R. Mehta,11/09/2025,45976,Done,11/23/2025
+ACT-894,Sales,Dispatch documentation backlog,D. Iyer,46205,2026-07-14,in-progress,
+ACT-895,Quality,Safety audit action closure,S. Nair,10/25/2024,45602,CLOSED,08-Nov-2024
+ACT-896,hr,Raw material vendor qualification,N. Trivedi,2024-01-26,45327,open,
+ACT-897,finance,SAP stock reconciliation,R. Mehta,45668,45687,Done,2025-01-25
+ACT-898,QC,Vendor NC closure - insulation batch,r.mehta,02-Sep-2025,18-09-2025,open,
+ACT-899,finance,Power factor correction panel upgrade,r.mehta,2026-04-09,17-Apr-2026,Done,04/18/2026
+ACT-900,Production,Raw material vendor qualification,K. Joshi,45258,45282,Closed,18-12-2023
+ACT-901,Projects,Testing lab calibration renewal,N. Trivedi,12-Dec-2023,2023-12-18,Closed,12/19/2023
+ACT-902,QC,Contract labour renewal,A. Shah,05/13/2024,06-Jun-2024,Closed,08-06-2024
+ACT-903,Production,Testing lab calibration renewal,K. Joshi,21-Oct-2023,01-11-2023,CLOSED,45234
+ACT-904,Finance,Machine spare parts stock-out review,M. Bhatt,18-Dec-2025,01/13/2026,closed ,13-Jan-2026
+ACT-905,production,Dispatch documentation backlog,D. Iyer,07-Apr-2026,46149,inprogress,
+ACT-906,Projects,Vendor NC closure - insulation batch,A. Shah,2026-02-25,23-03-2026,closed ,46104
+ACT-907,HR,ISO surveillance audit prep,M. Bhatt,15-08-2023,45163,Closed,45169
+ACT-908,Sales,New client drawing sign-off,r.mehta,46168,10-Jun-2026,inprogress,
+ACT-909,production,Testing lab calibration renewal,N. Trivedi,30-Aug-2023,,Done,06-Sep-2023
+ACT-910,Quality,Contract labour renewal,K. Joshi,2025-09-21,20-Oct-2025,closed ,29-10-2025
+ACT-911,Finance,Machine spare parts stock-out review,M. Bhatt,20-10-2024,15-11-2024,closed ,2024-11-19
+ACT-912,production,ISO surveillance audit prep,R. Mehta,20-05-2024,2024-06-18,open,
+ACT-913,Sales,Vendor NC closure - insulation batch,M. Bhatt,31-03-2025,26-04-2025,Done,04/28/2025
+ACT-914,Sales,Dispatch documentation backlog,r.mehta,27-Apr-2024,05/25/2024,closed ,45442
+ACT-915,Finance,Machine spare parts stock-out review,R. Mehta,11/25/2025,12/12/2025,Done,12/20/2025
+ACT-916,Finance,EHV Line preventive maintenance,S. Nair,2025-07-18,2025-07-26,in-progress,
+ACT-917,hr,Raw material vendor qualification,R. Mehta,2024-06-16,07/04/2024,Done,07/04/2024
+ACT-918,HR,New client drawing sign-off,P. Rao,2026-01-16,07-Feb-2026,CLOSED,02/14/2026
+ACT-919,hr,Raw material vendor qualification,P. Rao,2025-09-10,45920,Done,18-09-2025
+ACT-920,production,Contract labour renewal,N. Trivedi,45552,45580,closed ,2024-10-13
+ACT-921,Projects,SAP stock reconciliation,R. Mehta,45834,2025-07-21,Done,07/24/2025
+ACT-922,Quality,EHV Line preventive maintenance,P. Rao,45256,23-Dec-2023,closed ,01-01-2024
+ACT-923,QC,SAP stock reconciliation,P. Rao,19-04-2024,45414,Open,
+ACT-924,HR,Dispatch documentation backlog,M. Bhatt,02/23/2026,12-03-2026,closed ,09-03-2026
+ACT-925,finance,Testing lab calibration renewal,S. Nair,28-04-2025,16-May-2025,in-progress,
+ACT-926,finance,Contract labour renewal,r.mehta,06-02-2026,02/18/2026,Done,46070
+ACT-927,Quality,Contract labour renewal,S. Nair,02-Aug-2023,24-Aug-2023,Open,
+ACT-928,Finance,Dispatch documentation backlog,r.mehta,2026-01-29,10-Feb-2026,OPEN,
+ACT-929,QC,Vendor NC closure - insulation batch,r.mehta,45513,23-08-2024,OPEN,
+ACT-930,Quality,Raw material vendor qualification,R. Mehta,25-May-2024,45451,In Progress,
+ACT-931,HR,New client drawing sign-off,S. Nair,2024-08-29,11-Sep-2024,Done,09/07/2024
+ACT-932,Quality,EHV Line preventive maintenance,M. Bhatt,10/18/2024,11/02/2024,OPEN,
+ACT-933,Quality,Vendor NC closure - insulation batch,A. Shah,27-03-2026,2026-04-12,Closed,04/14/2026
+ACT-934,QC,EHV Line preventive maintenance,N. Trivedi,45578,,Closed,45603
+ACT-935,Finance,Dispatch documentation backlog,P. Rao,11-Dec-2023,45289,Done,45299
+ACT-936,Finance,Contract labour renewal,M. Bhatt,10/02/2023,10/11/2023,Done,18-Oct-2023
+ACT-937,HR,Raw material vendor qualification,A. Shah,23-Apr-2024,01-05-2024,inprogress,
+ACT-938,Finance,Testing lab calibration renewal,A. Shah,08-Dec-2023,12/28/2023,closed ,12/30/2023
+ACT-939,Finance,Dispatch documentation backlog,S. Nair,2026-03-26,46137,inprogress,
+ACT-940,Sales,SAP stock reconciliation,R. Mehta,02/13/2024,2024-02-21,closed ,2024-02-18
+ACT-941,Quality,Contract labour renewal,R. Mehta,2025-10-13,10/24/2025,Done,23-Oct-2025
+ACT-942,Finance,Power factor correction panel upgrade,r.mehta,45456,12-Jul-2024,Closed,45480
+ACT-943,finance,Power factor correction panel upgrade,S. Nair,45929,14-Oct-2025,CLOSED,11-10-2025
+ACT-944,Projects,Power factor correction panel upgrade,D. Iyer,46060,2026-03-06,open,
+ACT-945,QC,New client drawing sign-off,r.mehta,07/13/2026,46234,In Progress,
+ACT-946,finance,Safety audit action closure,r.mehta,08-Apr-2025,2025-04-23,In Progress,
+ACT-947,HR,Safety audit action closure,P. Rao,06/16/2024,05-Jul-2024,CLOSED,07/07/2024
+ACT-948,Finance,Safety audit action closure,S. Nair,2023-12-15,2023-12-28,Done,45289
+ACT-949,HR,Testing lab calibration renewal,D. Iyer,46030,2026-01-14,inprogress,
+ACT-950,production,Testing lab calibration renewal,K. Joshi,2023-11-17,10-12-2023,CLOSED,45270
+ACT-951,Projects,ISO surveillance audit prep,N. Trivedi,2024-07-27,08/20/2024,CLOSED,26-08-2024
+ACT-952,finance,Vendor NC closure - insulation batch,K. Joshi,45724,45750,closed ,45760
+ACT-953,Finance,Raw material vendor qualification,R. Mehta,24-10-2025,2025-11-12,In Progress,
+ACT-954,QC,Vendor NC closure - insulation batch,M. Bhatt,2024-09-19,02-Oct-2024,Done,10/06/2024
+ACT-955,Quality,SAP stock reconciliation,R. Mehta,45989,09-12-2025,Done,12/11/2025
+ACT-956,Quality,Raw material vendor qualification,M. Bhatt,2024-08-10,07-09-2024,Done,13-09-2024
+ACT-957,Sales,Dispatch documentation backlog,R. Mehta,03/06/2024,2024-03-25,Done,04/04/2024
+ACT-958,Quality,ISO surveillance audit prep,M. Bhatt,11/23/2023,11-12-2023,Done,21-Dec-2023
+ACT-959,Projects,Raw material vendor qualification,S. Nair,09/21/2025,13-Oct-2025,open,
+ACT-960,Quality,Dispatch documentation backlog,N. Trivedi,2023-10-20,11/04/2023,CLOSED,13-Nov-2023
+ACT-961,Quality,Dispatch documentation backlog,R. Mehta,13-09-2024,22-Sep-2024,inprogress,
+ACT-962,HR,SAP stock reconciliation,M. Bhatt,45666,21-Jan-2025,Done,45685
+ACT-963,Sales,Contract labour renewal,A. Shah,03/15/2026,30-Mar-2026,open,
+ACT-964,Finance,Power factor correction panel upgrade,M. Bhatt,2026-06-08,,closed ,07/03/2026
+ACT-965,Finance,ISO surveillance audit prep,R. Mehta,24-02-2024,03/20/2024,CLOSED,30-Mar-2024
+ACT-966,Quality,Power factor correction panel upgrade,K. Joshi,26-May-2026,21-Jun-2026,Done,2026-06-26
+ACT-967,hr,Power factor correction panel upgrade,A. Shah,08-08-2023,09/01/2023,CLOSED,09/09/2023
+ACT-968,Sales,New client drawing sign-off,P. Rao,2025-03-13,,CLOSED,03-04-2025
+ACT-969,finance,Raw material vendor qualification,K. Joshi,29-09-2023,10/06/2023,Done,16-10-2023
+ACT-970,QC,Vendor NC closure - insulation batch,R. Mehta,2024-09-03,16-Sep-2024,closed ,45550
+ACT-971,Production,Vendor NC closure - insulation batch,P. Rao,45402,2024-04-29,Open,
+ACT-972,Quality,Dispatch documentation backlog,M. Bhatt,01-09-2023,45185,Closed,19-Sep-2023
+ACT-973,Quality,Contract labour renewal,r.mehta,14-Jun-2026,2026-06-26,OPEN,
+ACT-974,Quality,Vendor NC closure - insulation batch,A. Shah,09/04/2023,45196,Closed,27-Sep-2023
+ACT-975,QC,Contract labour renewal,N. Trivedi,07-Feb-2024,45341,Closed,17-02-2024
+ACT-976,Quality,Raw material vendor qualification,A. Shah,45337,45347,closed ,2024-02-29
+ACT-977,HR,EHV Line preventive maintenance,D. Iyer,45185,2023-10-06,Done,10/13/2023
+ACT-978,Quality,Raw material vendor qualification,R. Mehta,2024-01-01,23-Jan-2024,closed ,23-01-2024
+ACT-979,Quality,New client drawing sign-off,N. Trivedi,09/02/2024,2024-09-20,Closed,09/16/2024
+ACT-980,Production,Machine spare parts stock-out review,A. Shah,02/23/2024,03/12/2024,Done,03/12/2024
+ACT-981,HR,EHV Line preventive maintenance,D. Iyer,19-10-2024,11/05/2024,CLOSED,08-Nov-2024
+ACT-982,hr,ISO surveillance audit prep,K. Joshi,2024-07-16,2024-07-30,In Progress,
+ACT-983,finance,Vendor NC closure - insulation batch,M. Bhatt,2024-10-26,2024-11-24,Done,23-Nov-2024
+ACT-984,finance,EHV Line preventive maintenance,K. Joshi,02-12-2024,12/13/2024,CLOSED,2024-12-21
+ACT-985,Quality,Power factor correction panel upgrade,K. Joshi,45445,11-Jun-2024,CLOSED,2024-06-19
+ACT-986,Projects,Raw material vendor qualification,r.mehta,23-02-2025,45717,Done,06-Mar-2025
+ACT-987,Quality,Dispatch documentation backlog,r.mehta,2024-03-20,2024-04-18,Closed,04/21/2024
+ACT-988,Projects,Power factor correction panel upgrade,M. Bhatt,2025-04-26,45785,CLOSED,05/08/2025
+ACT-989,Projects,Raw material vendor qualification,r.mehta,46016,16-01-2026,In Progress,
+ACT-990,Quality,EHV Line preventive maintenance,A. Shah,02-05-2024,05/29/2024,closed ,05/30/2024
+ACT-991,Projects,Dispatch documentation backlog,r.mehta,2026-03-08,03/21/2026,CLOSED,03/23/2026
+ACT-992,production,Raw material vendor qualification,r.mehta,07/21/2025,2025-07-27,CLOSED,06-Aug-2025
+ACT-993,finance,Machine spare parts stock-out review,M. Bhatt,2025-12-06,,open,
+ACT-994,HR,New client drawing sign-off,S. Nair,18-Jul-2024,08/15/2024,closed ,2024-08-17
+ACT-995,HR,Power factor correction panel upgrade,P. Rao,2026-01-30,02/11/2026,Done,02/10/2026
+ACT-996,Sales,SAP stock reconciliation,N. Trivedi,02-12-2025,2025-12-26,In Progress,
+ACT-997,finance,ISO surveillance audit prep,M. Bhatt,31-10-2024,15-Nov-2024,CLOSED,17-Nov-2024
+ACT-998,Production,Raw material vendor qualification,K. Joshi,04-Feb-2024,04-Mar-2024,CLOSED,2024-03-02
+ACT-999,Finance,Power factor correction panel upgrade,r.mehta,26-10-2024,11/10/2024,Done,2024-11-06
+ACT-1000,Finance,Power factor correction panel upgrade,R. Mehta,45153,02-Sep-2023,open,
+ACT-1001,Sales,New client drawing sign-off,S. Nair,04/22/2025,01-05-2025,Closed,04/29/2025
+ACT-1002,Sales,Power factor correction panel upgrade,R. Mehta,07/25/2024,08/23/2024,In Progress,
+ACT-1003,Quality,Raw material vendor qualification,r.mehta,2025-12-04,46024,Done,01/08/2026
+ACT-1004,HR,Dispatch documentation backlog,A. Shah,23-Jul-2025,31-07-2025,Closed,01-08-2025
+ACT-1005,Projects,Power factor correction panel upgrade,D. Iyer,19-10-2023,11/03/2023,open,
+ACT-1006,QC,Vendor NC closure - insulation batch,N. Trivedi,10-08-2023,2023-08-16,Closed,08/15/2023
+ACT-1007,QC,EHV Line preventive maintenance,R. Mehta,2025-02-15,21-02-2025,Closed,19-02-2025
+ACT-1008,Projects,Machine spare parts stock-out review,D. Iyer,05-Jun-2024,30-Jun-2024,Done,08-Jul-2024
+ACT-1009,HR,New client drawing sign-off,K. Joshi,04/24/2025,23-May-2025,Closed,05/19/2025
+ACT-1010,Sales,SAP stock reconciliation,R. Mehta,2024-08-26,2024-09-25,Closed,45567
+ACT-1011,Quality,Contract labour renewal,M. Bhatt,12-Oct-2023,11-Nov-2023,CLOSED,16-11-2023
+ACT-1012,finance,Safety audit action closure,N. Trivedi,2026-01-05,02-Feb-2026,Closed,01/31/2026
+ACT-1013,Sales,Machine spare parts stock-out review,M. Bhatt,01/13/2025,02/11/2025,CLOSED,15-02-2025
+ACT-1014,finance,New client drawing sign-off,K. Joshi,11-07-2024,21-Jul-2024,inprogress,
+ACT-1015,HR,Dispatch documentation backlog,M. Bhatt,20-Nov-2025,,Closed,45985
+ACT-1016,Finance,ISO surveillance audit prep,P. Rao,29-Feb-2024,30-03-2024,inprogress,
+ACT-1017,Production,EHV Line preventive maintenance,R. Mehta,08/05/2025,26-Aug-2025,CLOSED,2025-08-25
+ACT-1018,Sales,Raw material vendor qualification,S. Nair,12/28/2025,01/19/2026,Open,
+ACT-1019,finance,Testing lab calibration renewal,R. Mehta,2024-10-04,12-Oct-2024,closed ,45583
+ACT-1020,Production,ISO surveillance audit prep,M. Bhatt,45838,29-Jul-2025,Closed,45870
+ACT-1021,hr,Testing lab calibration renewal,r.mehta,45236,45259,Closed,45267
+ACT-1022,finance,EHV Line preventive maintenance,M. Bhatt,07/28/2026,19-Aug-2026,Open,
+ACT-1023,Production,New client drawing sign-off,P. Rao,45507,12-Aug-2024,OPEN,
+ACT-1024,hr,Contract labour renewal,K. Joshi,2024-07-28,45506,CLOSED,28-Jul-2024
+ACT-1025,QC,Safety audit action closure,P. Rao,01/31/2026,2026-02-28,Done,03-03-2026
+ACT-1026,hr,Power factor correction panel upgrade,K. Joshi,2025-07-30,45888,closed ,24-08-2025
+ACT-1027,production,Dispatch documentation backlog,N. Trivedi,28-Apr-2024,45428,open,
+ACT-1028,production,Machine spare parts stock-out review,S. Nair,06-03-2025,19-Mar-2025,Closed,03/28/2025
+ACT-1029,Finance,EHV Line preventive maintenance,r.mehta,15-Oct-2025,22-Oct-2025,Open,
+ACT-1030,hr,Machine spare parts stock-out review,A. Shah,31-Mar-2026,19-Apr-2026,closed ,14-04-2026
+ACT-1031,production,Raw material vendor qualification,M. Bhatt,01/12/2024,01/21/2024,closed ,45322
+ACT-1032,Finance,Power factor correction panel upgrade,K. Joshi,2024-06-19,2024-06-29,CLOSED,45479
+ACT-1033,QC,ISO surveillance audit prep,P. Rao,2023-09-12,45198,In Progress,
+ACT-1034,Production,Raw material vendor qualification,D. Iyer,2024-08-17,45526,CLOSED,08/27/2024
+ACT-1035,HR,Safety audit action closure,P. Rao,07/23/2026,2026-08-18,closed ,2026-08-27
+ACT-1036,Projects,Testing lab calibration renewal,R. Mehta,16-Feb-2026,,open,
+ACT-1037,Sales,Testing lab calibration renewal,D. Iyer,2024-12-13,45650,closed ,2024-12-25
+ACT-1038,Quality,ISO surveillance audit prep,N. Trivedi,12/22/2024,02-01-2025,CLOSED,12/30/2024
+ACT-1039,Projects,Power factor correction panel upgrade,S. Nair,23-01-2025,02/10/2025,in-progress,
+ACT-1040,QC,Vendor NC closure - insulation batch,M. Bhatt,2025-12-05,12/22/2025,Done,12/18/2025
+ACT-1041,Quality,Safety audit action closure,N. Trivedi,05-Dec-2025,30-Dec-2025,CLOSED,01/07/2026
+ACT-1042,finance,ISO surveillance audit prep,A. Shah,45488,11-Aug-2024,CLOSED,08/13/2024
+ACT-1043,Finance,ISO surveillance audit prep,R. Mehta,45233,11/25/2023,Done,24-Nov-2023
+ACT-1044,QC,SAP stock reconciliation,S. Nair,21-Jul-2025,45878,OPEN,
+ACT-1045,Production,Raw material vendor qualification,S. Nair,03/19/2026,13-04-2026,Done,04/22/2026
+ACT-1046,Projects,SAP stock reconciliation,K. Joshi,16-10-2023,06-11-2023,CLOSED,2023-11-14
+ACT-1047,Quality,Testing lab calibration renewal,A. Shah,07-03-2025,45748,Done,04/07/2025
+ACT-1048,Production,Power factor correction panel upgrade,K. Joshi,2025-08-22,45904,closed ,03-09-2025
+ACT-1049,Quality,EHV Line preventive maintenance,M. Bhatt,2025-11-16,2025-12-02,Done,30-Nov-2025
+ACT-1050,Finance,Machine spare parts stock-out review,R. Mehta,09/21/2023,45220,Closed,2023-10-29
+ACT-1051,QC,Contract labour renewal,R. Mehta,08/14/2023,05-Sep-2023,closed ,09/07/2023
+ACT-1052,Quality,Safety audit action closure,A. Shah,11-Apr-2024,,In Progress,
+ACT-1053,Production,Contract labour renewal,r.mehta,18-Jun-2024,06/26/2024,Closed,26-06-2024
+ACT-1054,Production,Power factor correction panel upgrade,M. Bhatt,2024-06-14,45462,CLOSED,45470
+ACT-1055,finance,Testing lab calibration renewal,R. Mehta,04-12-2025,2025-12-12,CLOSED,46012
+ACT-1056,Finance,Testing lab calibration renewal,P. Rao,03/21/2024,45397,closed ,21-Apr-2024
+ACT-1057,Finance,SAP stock reconciliation,R. Mehta,08/19/2023,09/08/2023,in-progress,
+ACT-1058,HR,Machine spare parts stock-out review,S. Nair,45494,26-07-2024,open,
+ACT-1059,Quality,Safety audit action closure,R. Mehta,05/29/2025,18-Jun-2025,Open,
+ACT-1060,production,Machine spare parts stock-out review,A. Shah,05/03/2026,23-May-2026,Done,27-05-2026
+ACT-1061,finance,Vendor NC closure - insulation batch,A. Shah,21-06-2024,19-Jul-2024,inprogress,
+ACT-1062,HR,Raw material vendor qualification,N. Trivedi,04/26/2026,01-May-2026,Done,2026-04-26
+ACT-1063,hr,Dispatch documentation backlog,K. Joshi,06/26/2026,46220,open,
+ACT-1064,Finance,ISO surveillance audit prep,S. Nair,2026-03-09,04/05/2026,In Progress,
+ACT-1065,Sales,Contract labour renewal,D. Iyer,09/08/2025,2025-09-14,inprogress,
+ACT-1066,Quality,SAP stock reconciliation,A. Shah,11/07/2023,01-Dec-2023,Done,02-12-2023
+ACT-1067,hr,New client drawing sign-off,P. Rao,2023-08-04,45158,Done,45160
+ACT-1068,Production,Vendor NC closure - insulation batch,D. Iyer,24-11-2024,45630,in-progress,
+ACT-1069,Production,New client drawing sign-off,D. Iyer,45507,18-08-2024,In Progress,
+ACT-1070,Sales,Vendor NC closure - insulation batch,M. Bhatt,31-05-2026,06-06-2026,CLOSED,46182
+ACT-1071,finance,Contract labour renewal,P. Rao,19-08-2024,09/12/2024,CLOSED,2024-09-10
+ACT-1072,HR,Safety audit action closure,S. Nair,05/06/2025,12-05-2025,Done,21-May-2025
+ACT-1073,QC,Vendor NC closure - insulation batch,K. Joshi,2023-11-02,2023-11-23,CLOSED,25-Nov-2023
+ACT-1074,QC,EHV Line preventive maintenance,A. Shah,18-Dec-2024,24-Dec-2024,CLOSED,29-Dec-2024
+ACT-1075,hr,SAP stock reconciliation,S. Nair,2026-02-08,02/18/2026,in-progress,
+ACT-1076,HR,Vendor NC closure - insulation batch,K. Joshi,17-Feb-2024,24-Feb-2024,open,
+ACT-1077,Projects,Dispatch documentation backlog,D. Iyer,12/12/2025,2025-12-28,Done,02-01-2026
+ACT-1078,HR,Testing lab calibration renewal,P. Rao,46073,15-03-2026,Closed,03/25/2026
+ACT-1079,Finance,Contract labour renewal,r.mehta,45892,2025-09-12,open,
+ACT-1080,finance,Machine spare parts stock-out review,K. Joshi,07/20/2024,2024-08-13,Closed,2024-08-16
+ACT-1081,Projects,SAP stock reconciliation,P. Rao,2024-09-05,20-09-2024,Done,30-Sep-2024
+ACT-1082,Sales,Safety audit action closure,K. Joshi,24-06-2025,07/20/2025,In Progress,
+ACT-1083,Projects,Power factor correction panel upgrade,P. Rao,46120,04-05-2026,Open,
+ACT-1084,HR,Safety audit action closure,M. Bhatt,01/22/2024,2024-02-04,in-progress,
+ACT-1085,Finance,Safety audit action closure,N. Trivedi,21-02-2026,03/23/2026,Closed,46103
+ACT-1086,QC,Safety audit action closure,M. Bhatt,11/12/2024,12-12-2024,closed ,45646
+ACT-1087,Sales,Raw material vendor qualification,D. Iyer,28-11-2025,18-12-2025,Closed,16-Dec-2025
+ACT-1088,hr,Safety audit action closure,D. Iyer,2024-12-08,45651,Done,23-Dec-2024
+ACT-1089,Projects,SAP stock reconciliation,r.mehta,30-12-2023,2024-01-19,Done,2024-01-29
+ACT-1090,Production,Dispatch documentation backlog,M. Bhatt,45969,45992,Done,01-Dec-2025
+ACT-1091,HR,ISO surveillance audit prep,R. Mehta,04-01-2025,2025-01-19,closed ,18-Jan-2025
+ACT-1092,QC,Dispatch documentation backlog,r.mehta,2024-09-04,09/10/2024,In Progress,
+ACT-1093,QC,Testing lab calibration renewal,P. Rao,12/27/2024,2025-01-16,CLOSED,17-Jan-2025
+ACT-1094,Finance,New client drawing sign-off,S. Nair,2023-09-15,09/29/2023,CLOSED,2023-09-25
+ACT-1095,Sales,New client drawing sign-off,M. Bhatt,02-Jan-2025,45664,Closed,02-01-2025
+ACT-1096,Projects,Machine spare parts stock-out review,P. Rao,02/10/2026,46078,closed ,03/05/2026
+ACT-1097,hr,SAP stock reconciliation,r.mehta,22-Jul-2026,08/18/2026,OPEN,
+ACT-1098,Quality,Machine spare parts stock-out review,D. Iyer,2026-01-22,07-Feb-2026,Done,46067
+ACT-1099,Production,SAP stock reconciliation,M. Bhatt,02/05/2026,02/13/2026,open,
+ACT-1100,production,New client drawing sign-off,A. Shah,29-Aug-2023,,in-progress,
+ACT-1101,finance,New client drawing sign-off,S. Nair,45566,10/22/2024,CLOSED,45583
+ACT-1102,QC,Safety audit action closure,S. Nair,19-04-2026,2026-05-12,CLOSED,46160
+ACT-1103,Finance,Machine spare parts stock-out review,D. Iyer,16-08-2025,09/07/2025,CLOSED,04-09-2025
+ACT-1104,Quality,Machine spare parts stock-out review,S. Nair,07-07-2024,03-Aug-2024,Closed,02-08-2024
+ACT-1105,Production,Raw material vendor qualification,M. Bhatt,04/22/2026,,closed ,10-05-2026
+ACT-1106,Production,Raw material vendor qualification,r.mehta,2023-09-29,09-10-2023,Done,45205
+ACT-1107,finance,Dispatch documentation backlog,K. Joshi,2025-11-20,06-12-2025,OPEN,
+ACT-1108,Projects,Safety audit action closure,M. Bhatt,2025-08-02,2025-08-15,in-progress,
+ACT-1109,HR,Power factor correction panel upgrade,P. Rao,46154,07-Jun-2026,Done,2026-06-12
+ACT-1110,HR,Safety audit action closure,S. Nair,45523,28-Aug-2024,Closed,09/02/2024
+ACT-1111,finance,Safety audit action closure,R. Mehta,17-04-2025,2025-05-10,CLOSED,05/20/2025
+ACT-1112,Projects,EHV Line preventive maintenance,P. Rao,08-01-2025,45679,CLOSED,45687
+ACT-1113,hr,SAP stock reconciliation,D. Iyer,45743,24-04-2025,inprogress,
+ACT-1114,Sales,Power factor correction panel upgrade,K. Joshi,15-01-2024,2024-01-21,CLOSED,45318
+ACT-1115,Quality,Testing lab calibration renewal,S. Nair,11-Nov-2023,20-Nov-2023,Done,11/27/2023
+ACT-1116,Sales,New client drawing sign-off,S. Nair,01/13/2024,45328,open,
+ACT-1117,Quality,EHV Line preventive maintenance,N. Trivedi,45156,08/29/2023,Open,
+ACT-1118,production,Power factor correction panel upgrade,K. Joshi,06-09-2023,2023-09-30,OPEN,
+ACT-1119,Projects,New client drawing sign-off,N. Trivedi,2024-02-02,02-03-2024,inprogress,
+ACT-1120,hr,New client drawing sign-off,r.mehta,17-05-2025,05-06-2025,Closed,06/05/2025
+ACT-1121,Projects,ISO surveillance audit prep,N. Trivedi,2023-08-02,2023-08-10,CLOSED,16-08-2023
+ACT-1122,hr,Safety audit action closure,r.mehta,01-09-2023,2023-09-26,Done,29-09-2023
+ACT-1123,Quality,Dispatch documentation backlog,D. Iyer,29-07-2024,45511,Closed,04-Aug-2024
+ACT-1124,Finance,New client drawing sign-off,R. Mehta,29-Feb-2024,17-Mar-2024,OPEN,
+ACT-1125,Finance,Power factor correction panel upgrade,R. Mehta,45171,2023-09-21,open,
+ACT-1126,Production,New client drawing sign-off,M. Bhatt,46044,2026-02-04,Done,14-Feb-2026
+ACT-1127,Quality,EHV Line preventive maintenance,M. Bhatt,45201,10/19/2023,CLOSED,10/17/2023
+ACT-1128,QC,New client drawing sign-off,M. Bhatt,45402,45411,in-progress,
+ACT-1129,hr,New client drawing sign-off,S. Nair,08-Dec-2023,12/23/2023,CLOSED,45279
+ACT-1130,Quality,Power factor correction panel upgrade,K. Joshi,46147,28-May-2026,open,
+ACT-1131,hr,Machine spare parts stock-out review,M. Bhatt,45618,29-11-2024,closed ,45625
+ACT-1132,Projects,Power factor correction panel upgrade,M. Bhatt,12-Feb-2024,45341,closed ,25-Feb-2024
+ACT-1133,Production,New client drawing sign-off,N. Trivedi,09-08-2023,08/18/2023,Done,2023-08-23
+ACT-1134,production,Power factor correction panel upgrade,M. Bhatt,06-Oct-2025,10/30/2025,in-progress,
+ACT-1135,Quality,ISO surveillance audit prep,D. Iyer,45288,19-01-2024,Open,
+ACT-1136,HR,Dispatch documentation backlog,M. Bhatt,15-Apr-2025,45768,Closed,45770
+ACT-1137,hr,Dispatch documentation backlog,M. Bhatt,46159,06/15/2026,closed ,16-Jun-2026
+ACT-1138,Quality,Vendor NC closure - insulation batch,S. Nair,10/07/2024,22-10-2024,closed ,20-10-2024
+ACT-1139,Finance,Contract labour renewal,A. Shah,11-Feb-2026,03/03/2026,Done,28-02-2026
+ACT-1140,Sales,Machine spare parts stock-out review,M. Bhatt,01-06-2026,22-Jun-2026,CLOSED,27-Jun-2026
+ACT-1141,Finance,New client drawing sign-off,M. Bhatt,19-12-2023,03-01-2024,Closed,45292
+ACT-1142,Quality,Power factor correction panel upgrade,A. Shah,22-Dec-2024,12/29/2024,OPEN,
+ACT-1143,Sales,New client drawing sign-off,M. Bhatt,2023-11-02,45255,OPEN,
+ACT-1144,QC,Power factor correction panel upgrade,M. Bhatt,18-03-2025,05-04-2025,CLOSED,04/14/2025
+ACT-1145,Sales,Testing lab calibration renewal,M. Bhatt,08/05/2024,08/10/2024,Closed,45524
+ACT-1146,Projects,Testing lab calibration renewal,K. Joshi,45975,04-12-2025,open,
+ACT-1147,hr,Power factor correction panel upgrade,P. Rao,45239,25-11-2023,Closed,20-11-2023
+ACT-1148,Projects,New client drawing sign-off,S. Nair,2025-01-07,45675,closed ,45684
+ACT-1149,Production,Contract labour renewal,R. Mehta,02/16/2025,26-Feb-2025,inprogress,
+ACT-1150,Projects,Contract labour renewal,M. Bhatt,2026-02-11,25-02-2026,in-progress,
+ACT-1151,production,Machine spare parts stock-out review,M. Bhatt,03-Feb-2025,05-Mar-2025,closed ,2025-03-03
+ACT-1152,Projects,New client drawing sign-off,P. Rao,2023-09-06,45205,Done,10/04/2023
+ACT-1153,Quality,Dispatch documentation backlog,K. Joshi,25-Dec-2023,21-01-2024,closed ,31-01-2024
+ACT-1154,Projects,EHV Line preventive maintenance,M. Bhatt,03/05/2026,46108,OPEN,
+ACT-1155,HR,Machine spare parts stock-out review,r.mehta,20-03-2026,2026-04-12,Closed,08-Apr-2026
+ACT-1156,Projects,EHV Line preventive maintenance,K. Joshi,01-09-2024,2024-09-11,closed ,13-09-2024
+ACT-1157,HR,Safety audit action closure,S. Nair,30-04-2025,14-05-2025,closed ,15-05-2025
+ACT-1158,Finance,Contract labour renewal,K. Joshi,45249,12/02/2023,CLOSED,11/29/2023
+ACT-1159,Projects,Contract labour renewal,K. Joshi,2025-01-07,01/13/2025,open,
+ACT-1160,Production,Vendor NC closure - insulation batch,K. Joshi,2025-11-20,11/28/2025,Closed,2025-12-06
+ACT-1161,production,New client drawing sign-off,r.mehta,12/19/2023,07-01-2024,Open,
+ACT-1162,Finance,EHV Line preventive maintenance,r.mehta,01/09/2024,14-01-2024,inprogress,
+ACT-1163,Quality,Vendor NC closure - insulation batch,M. Bhatt,22-Feb-2025,28-Feb-2025,Done,02/23/2025
+ACT-1164,hr,ISO surveillance audit prep,N. Trivedi,13-04-2024,04/26/2024,CLOSED,45416
+ACT-1165,finance,EHV Line preventive maintenance,P. Rao,01/26/2025,21-Feb-2025,Open,
+ACT-1166,production,Testing lab calibration renewal,N. Trivedi,11-Dec-2023,2023-12-23,Open,
+ACT-1167,Quality,EHV Line preventive maintenance,R. Mehta,07/18/2024,09-Aug-2024,CLOSED,09-08-2024
+ACT-1168,Quality,Power factor correction panel upgrade,P. Rao,02-Jun-2026,28-Jun-2026,OPEN,
+ACT-1169,Sales,Power factor correction panel upgrade,r.mehta,46155,2026-05-29,OPEN,
+ACT-1170,HR,Raw material vendor qualification,N. Trivedi,31-01-2025,2025-02-09,closed ,09-Feb-2025
+ACT-1171,Projects,Dispatch documentation backlog,S. Nair,06/08/2026,46189,closed ,06/21/2026
+ACT-1172,Production,Raw material vendor qualification,P. Rao,45181,01-10-2023,Closed,06-Oct-2023
+ACT-1173,production,Dispatch documentation backlog,K. Joshi,45619,45649,Done,22-12-2024
+ACT-1174,production,Power factor correction panel upgrade,K. Joshi,02-Jan-2026,20-01-2026,Done,46043
+ACT-1175,Projects,Safety audit action closure,r.mehta,46076,03/05/2026,closed ,2026-03-07
+ACT-1176,Projects,EHV Line preventive maintenance,N. Trivedi,03-10-2023,2023-11-01,CLOSED,02-11-2023
+ACT-1177,Projects,Testing lab calibration renewal,N. Trivedi,09-01-2024,45309,CLOSED,16-01-2024
+ACT-1178,Sales,Raw material vendor qualification,D. Iyer,06-Jul-2025,27-07-2025,closed ,23-Jul-2025
+ACT-1179,Quality,Raw material vendor qualification,S. Nair,19-Feb-2024,03/07/2024,closed ,08-Mar-2024
+ACT-1180,Production,ISO surveillance audit prep,K. Joshi,45164,2023-09-20,Done,26-09-2023
+ACT-1181,finance,Machine spare parts stock-out review,r.mehta,45786,15-May-2025,inprogress,
+ACT-1182,HR,Contract labour renewal,S. Nair,12-03-2025,04/03/2025,Done,2025-03-29
+ACT-1183,HR,SAP stock reconciliation,A. Shah,45339,45367,CLOSED,26-Mar-2024
+ACT-1184,HR,Safety audit action closure,P. Rao,46038,21-01-2026,Done,23-Jan-2026
+ACT-1185,Quality,Contract labour renewal,r.mehta,45600,15-11-2024,in-progress,
+ACT-1186,Projects,Dispatch documentation backlog,K. Joshi,21-10-2025,45961,closed ,45971
+ACT-1187,Production,New client drawing sign-off,S. Nair,05/23/2024,12-Jun-2024,Closed,06/12/2024
+ACT-1188,finance,EHV Line preventive maintenance,M. Bhatt,30-Aug-2023,16-09-2023,In Progress,
+ACT-1189,Projects,Machine spare parts stock-out review,N. Trivedi,2023-10-18,2023-11-05,in-progress,
+ACT-1190,Sales,Contract labour renewal,N. Trivedi,17-01-2026,01-02-2026,closed ,06-Feb-2026
+ACT-1191,Projects,Vendor NC closure - insulation batch,R. Mehta,08/11/2024,,closed ,09/13/2024
+ACT-1192,finance,ISO surveillance audit prep,P. Rao,2026-04-10,03-May-2026,Done,05/01/2026
+ACT-1193,Quality,Dispatch documentation backlog,N. Trivedi,22-01-2026,31-Jan-2026,CLOSED,46063
+ACT-1194,hr,Raw material vendor qualification,S. Nair,45214,10/27/2023,closed ,23-10-2023
+ACT-1195,finance,Dispatch documentation backlog,S. Nair,02/19/2026,46088,closed ,12-03-2026
+ACT-1196,Production,Power factor correction panel upgrade,K. Joshi,12-09-2023,18-Sep-2023,Open,
+ACT-1197,Finance,Contract labour renewal,K. Joshi,03-04-2024,,Done,45389
+ACT-1198,HR,New client drawing sign-off,M. Bhatt,03/29/2026,04/13/2026,Closed,04/09/2026
+ACT-1199,finance,Testing lab calibration renewal,r.mehta,29-04-2024,45420,Done,05/18/2024
+ACT-1200,Production,Power factor correction panel upgrade,N. Trivedi,45744,04-Apr-2025,Closed,30-Mar-2025
+ACT-1201,HR,Vendor NC closure - insulation batch,R. Mehta,27-Feb-2025,2025-03-20,CLOSED,17-03-2025
+ACT-1202,Sales,EHV Line preventive maintenance,K. Joshi,2023-12-09,2024-01-02,in-progress,
+ACT-1203,hr,Testing lab calibration renewal,R. Mehta,45974,12/07/2025,Done,12-Dec-2025
+ACT-1204,production,Dispatch documentation backlog,N. Trivedi,45317,19-02-2024,Done,2024-02-26
+ACT-1205,Sales,SAP stock reconciliation,A. Shah,2023-11-17,01-12-2023,open,
+ACT-1206,finance,Power factor correction panel upgrade,S. Nair,12-06-2025,2025-06-22,Open,
+ACT-1207,Sales,Dispatch documentation backlog,R. Mehta,22-03-2026,08-04-2026,Done,10-04-2026
+ACT-1208,Quality,Raw material vendor qualification,P. Rao,07/25/2025,07/30/2025,Done,29-Jul-2025
+ACT-1209,Sales,Raw material vendor qualification,r.mehta,46196,2026-07-22,in-progress,
+ACT-1210,hr,Safety audit action closure,K. Joshi,20-07-2025,2025-08-10,Closed,2025-08-16
+ACT-1211,Sales,SAP stock reconciliation,K. Joshi,17-Dec-2025,11-01-2026,Done,46031
+ACT-1212,finance,Power factor correction panel upgrade,A. Shah,11-Nov-2023,11/28/2023,CLOSED,01-12-2023
+ACT-1213,Sales,New client drawing sign-off,M. Bhatt,02/05/2024,01-03-2024,Done,11-Mar-2024
+ACT-1214,Sales,ISO surveillance audit prep,P. Rao,25-09-2024,,closed ,24-Oct-2024
+ACT-1215,hr,Power factor correction panel upgrade,N. Trivedi,46173,19-Jun-2026,closed ,46189
+ACT-1216,QC,Machine spare parts stock-out review,D. Iyer,16-Oct-2024,10/24/2024,CLOSED,28-Oct-2024
+ACT-1217,Production,Machine spare parts stock-out review,P. Rao,02/23/2026,08-03-2026,CLOSED,15-03-2026
+ACT-1218,HR,Contract labour renewal,S. Nair,08/01/2024,18-Aug-2024,closed ,28-08-2024
+ACT-1219,Projects,Power factor correction panel upgrade,K. Joshi,23-Aug-2023,13-Sep-2023,closed ,21-Sep-2023
+ACT-1220,finance,Contract labour renewal,R. Mehta,10/24/2025,,CLOSED,14-Nov-2025
+ACT-1221,Production,Testing lab calibration renewal,P. Rao,09/08/2024,09/21/2024,OPEN,
+ACT-1222,Quality,EHV Line preventive maintenance,M. Bhatt,11/19/2024,45637,CLOSED,12-Dec-2024
+ACT-1223,finance,New client drawing sign-off,A. Shah,2025-07-22,08/16/2025,CLOSED,15-08-2025
+ACT-1224,Production,EHV Line preventive maintenance,S. Nair,45211,01-11-2023,Closed,28-10-2023
+ACT-1225,production,Vendor NC closure - insulation batch,S. Nair,29-03-2026,46134,closed ,22-04-2026
+ACT-1226,Sales,Dispatch documentation backlog,r.mehta,18-08-2023,14-Sep-2023,Done,09/22/2023
+ACT-1227,Sales,Power factor correction panel upgrade,R. Mehta,04/29/2024,45418,In Progress,
+ACT-1228,finance,Vendor NC closure - insulation batch,S. Nair,21-Oct-2025,2025-11-03,In Progress,
+ACT-1229,Production,Machine spare parts stock-out review,A. Shah,04/17/2024,45420,closed ,2024-05-14
+ACT-1230,HR,Raw material vendor qualification,K. Joshi,27-12-2025,46030,closed ,18-Jan-2026
+ACT-1231,Finance,New client drawing sign-off,N. Trivedi,24-Dec-2024,2025-01-17,Closed,2025-01-23
+ACT-1232,hr,EHV Line preventive maintenance,D. Iyer,2025-09-25,15-Oct-2025,CLOSED,2025-10-20
+ACT-1233,QC,Raw material vendor qualification,D. Iyer,45630,2024-12-19,CLOSED,45650
+ACT-1234,finance,Testing lab calibration renewal,N. Trivedi,04-05-2025,12-05-2025,Done,12-05-2025
+ACT-1235,hr,Power factor correction panel upgrade,P. Rao,11-Dec-2024,01/10/2025,Closed,08-Jan-2025
+ACT-1236,Finance,Safety audit action closure,K. Joshi,03-08-2025,,Closed,2025-08-21
+ACT-1237,Finance,Vendor NC closure - insulation batch,S. Nair,05-03-2026,11-Mar-2026,Done,10-03-2026
+ACT-1238,Sales,Safety audit action closure,A. Shah,23-12-2025,02-Jan-2026,closed ,12/29/2025
+ACT-1239,Production,Power factor correction panel upgrade,N. Trivedi,45884,45894,CLOSED,30-Aug-2025
+ACT-1240,Finance,Safety audit action closure,S. Nair,28-Oct-2025,45987,closed ,27-Nov-2025
+ACT-1241,Quality,Safety audit action closure,R. Mehta,18-06-2025,11-07-2025,Done,45856
+ACT-1242,QC,Safety audit action closure,P. Rao,20-Sep-2024,10/11/2024,Closed,18-10-2024
+ACT-1243,finance,Vendor NC closure - insulation batch,M. Bhatt,2024-07-24,2024-08-06,Done,45511
+ACT-1244,QC,Vendor NC closure - insulation batch,P. Rao,09/24/2023,45201,Done,2023-09-29
+ACT-1245,finance,Safety audit action closure,K. Joshi,2024-08-04,2024-08-22,CLOSED,08/28/2024
+ACT-1246,Sales,SAP stock reconciliation,N. Trivedi,06/04/2025,11-Jun-2025,CLOSED,45829
+ACT-1247,Finance,ISO surveillance audit prep,D. Iyer,29-05-2025,06/07/2025,In Progress,
+ACT-1248,production,SAP stock reconciliation,M. Bhatt,06-04-2024,18-Apr-2024,Done,04/25/2024
+ACT-1249,Finance,Raw material vendor qualification,r.mehta,20-Oct-2024,28-10-2024,CLOSED,2024-10-26
+ACT-1250,Quality,Vendor NC closure - insulation batch,R. Mehta,01-07-2025,07/15/2025,Open,
+ACT-1251,QC,Contract labour renewal,P. Rao,45799,07-06-2025,Done,07-06-2025
+ACT-1252,Sales,Safety audit action closure,A. Shah,45899,10-09-2025,OPEN,
+ACT-1253,hr,ISO surveillance audit prep,S. Nair,2025-01-24,,Done,2025-02-11
+ACT-1254,Quality,Machine spare parts stock-out review,A. Shah,30-08-2025,45918,Closed,2025-09-13
+ACT-1255,finance,Testing lab calibration renewal,K. Joshi,45665,2025-01-13,Closed,21-01-2025
+ACT-1256,QC,Testing lab calibration renewal,N. Trivedi,22-10-2025,17-11-2025,closed ,2025-11-16
+ACT-1257,Sales,Contract labour renewal,M. Bhatt,14-Jun-2025,45831,OPEN,
+ACT-1258,Sales,Testing lab calibration renewal,R. Mehta,45285,45292,CLOSED,07-Jan-2024
+ACT-1259,Production,New client drawing sign-off,N. Trivedi,04-07-2024,45493,inprogress,
+ACT-1260,Sales,Vendor NC closure - insulation batch,K. Joshi,45520,03-09-2024,Done,02-09-2024
+ACT-1261,hr,Machine spare parts stock-out review,S. Nair,2024-12-02,,in-progress,
+ACT-1262,hr,EHV Line preventive maintenance,P. Rao,19-Jul-2024,04-Aug-2024,closed ,07/30/2024
+ACT-1263,HR,Safety audit action closure,R. Mehta,09-11-2024,45634,Done,45630
+ACT-1264,Production,Safety audit action closure,A. Shah,2026-07-17,46235,OPEN,
+ACT-1265,Finance,Safety audit action closure,A. Shah,06/28/2024,07/22/2024,CLOSED,23-07-2024
+ACT-1266,finance,New client drawing sign-off,S. Nair,45867,08/14/2025,Done,17-08-2025
+ACT-1267,Production,Raw material vendor qualification,K. Joshi,16-01-2025,2025-02-12,closed ,02/21/2025
+ACT-1268,Sales,New client drawing sign-off,M. Bhatt,45444,45449,Closed,2024-06-10
+ACT-1269,production,New client drawing sign-off,P. Rao,23-11-2025,12/01/2025,OPEN,
+ACT-1270,Finance,ISO surveillance audit prep,D. Iyer,46185,01-07-2026,Open,
+ACT-1271,QC,EHV Line preventive maintenance,r.mehta,02/02/2026,23-02-2026,Done,03/02/2026
+ACT-1272,production,Contract labour renewal,K. Joshi,09-01-2024,01/17/2024,CLOSED,21-01-2024
+ACT-1273,finance,SAP stock reconciliation,R. Mehta,23-10-2024,,Closed,2024-10-28
+ACT-1274,production,Testing lab calibration renewal,R. Mehta,2023-08-01,45149,Done,45156
+ACT-1275,production,Safety audit action closure,A. Shah,09/21/2023,16-Oct-2023,CLOSED,13-Oct-2023
+ACT-1276,hr,Vendor NC closure - insulation batch,S. Nair,26-11-2024,45641,Closed,2024-12-23
+ACT-1277,QC,EHV Line preventive maintenance,S. Nair,2026-06-09,19-Jun-2026,CLOSED,22-06-2026
+ACT-1278,Production,SAP stock reconciliation,M. Bhatt,12/01/2023,12/31/2023,closed ,30-12-2023
+ACT-1279,finance,Testing lab calibration renewal,N. Trivedi,45575,27-10-2024,CLOSED,05-Nov-2024
+ACT-1280,Production,Machine spare parts stock-out review,S. Nair,23-11-2023,11/28/2023,closed ,30-Nov-2023
+ACT-1281,finance,Power factor correction panel upgrade,D. Iyer,46174,21-Jun-2026,Closed,01-Jul-2026
+ACT-1282,Projects,EHV Line preventive maintenance,A. Shah,19-Mar-2026,12-Apr-2026,OPEN,
+ACT-1283,QC,Raw material vendor qualification,R. Mehta,19-Oct-2025,45979,Done,11/26/2025
+ACT-1284,Finance,Raw material vendor qualification,S. Nair,29-11-2023,2023-12-20,closed ,12/27/2023
+ACT-1285,finance,Vendor NC closure - insulation batch,D. Iyer,05/23/2026,06-Jun-2026,Closed,46180
+ACT-1286,Quality,EHV Line preventive maintenance,M. Bhatt,09-Sep-2025,26-Sep-2025,open,
+ACT-1287,Sales,Dispatch documentation backlog,r.mehta,08-Apr-2025,04/18/2025,Closed,14-04-2025
+ACT-1288,Finance,ISO surveillance audit prep,K. Joshi,04/09/2026,46138,Closed,27-Apr-2026
+ACT-1289,Quality,Raw material vendor qualification,A. Shah,08-09-2023,10/07/2023,Closed,13-10-2023
+ACT-1290,QC,New client drawing sign-off,R. Mehta,45673,11-02-2025,Done,45704
+ACT-1291,Quality,Machine spare parts stock-out review,P. Rao,07/28/2024,2024-08-21,CLOSED,24-08-2024
+ACT-1292,Sales,Safety audit action closure,N. Trivedi,12/16/2023,45292,OPEN,
+ACT-1293,HR,Power factor correction panel upgrade,A. Shah,12-05-2024,27-May-2024,Closed,2024-05-23
+ACT-1294,Quality,Contract labour renewal,R. Mehta,2025-12-25,46027,Closed,2026-01-01
+ACT-1295,Quality,Safety audit action closure,M. Bhatt,45379,03-04-2024,closed ,30-03-2024
+ACT-1296,Sales,Dispatch documentation backlog,M. Bhatt,04/23/2026,03-May-2026,in-progress,
+ACT-1297,Sales,ISO surveillance audit prep,A. Shah,2024-05-12,2024-06-01,Done,45450
+ACT-1298,Quality,Safety audit action closure,M. Bhatt,45499,18-Aug-2024,CLOSED,24-08-2024
+ACT-1299,Quality,New client drawing sign-off,D. Iyer,2024-01-07,45318,open,
+ACT-1300,hr,Power factor correction panel upgrade,A. Shah,22-01-2026,01/30/2026,closed ,27-01-2026
+ACT-1301,production,Testing lab calibration renewal,P. Rao,09-Jun-2025,25-06-2025,Done,24-06-2025
+ACT-1302,production,New client drawing sign-off,K. Joshi,2024-08-16,08/24/2024,Done,24-08-2024

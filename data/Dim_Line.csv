@@ -1,0 +1,11 @@
+LineID,LineName,ProductFamily,PlantID,TargetOEE
+L1,Cable Line 1,LV Cable,Silvassa,92
+L2,Cable Line 2,LV Cable,Silvassa,90
+L3,Cable Line 3,HV Cable,Vadodara-Savli,85
+L4,Cable Line 4,HV Cable,Vadodara-Savli,82
+L5,Cable Line 5,EHV Cable,Vadodara-Savli,78
+L6,Cable Line 6,EHV Cable,Vadodara-Savli,75
+L7,Cable Line 7,EHV Cable,Halol,70
+L8,Cable Line 8,EHV Cable,Valsad,68
+C1,Conductor Line 1,Conductor,Vadodara-Gorwa,90
+C2,Conductor Line 2,Conductor,Vadodara-Gorwa,88

@@ -1,0 +1,4 @@
+ShiftID,ShiftName,PlannedMinutes
+A,Shift A (06:00-14:00),480
+B,Shift B (14:00-22:00),480
+C,Shift C (22:00-06:00),480
